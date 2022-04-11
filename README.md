@@ -15,3 +15,5 @@ const conversation = 'Finn exclaims to Jake, "Algebraic!"';
 const conversation = 'Finn exclaims to Jake, "Algebraic!"';
 const goodStr = 'Jake asks Finn, "Hey, let\'s go on an adventure?"'; 
 const badStr = 'Finn responds, "Let's go!"';
+
+  Here badStr will throw an error.
