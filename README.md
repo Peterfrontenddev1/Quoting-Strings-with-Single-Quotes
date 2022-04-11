@@ -7,4 +7,5 @@ as long as you start and end with the same type of quote.
 Unlike some other programming languages, 
 
 const doubleQuoteStr = "This is a string"; 
+
 const singleQuoteStr = 'This is also a string';
