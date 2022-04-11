@@ -20,4 +20,5 @@ const badStr = 'Finn responds, "Let's go!"';
   Here badStr will throw an error.
   
 In the goodStr above,
-  you can use both quotes safely by using the backslash \ as an escape character.
+  
+you can use both quotes safely by using the backslash \ as an escape character.
