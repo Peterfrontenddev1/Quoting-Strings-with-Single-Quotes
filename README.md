@@ -24,3 +24,4 @@ In the goodStr above,
 you can use both quotes safely by using the backslash \ as an escape character.
 
   Note: The backslash \ should not be confused with the forward slash /. They do not do the same thing.
+Change the provided string to a string with single quotes at the beginning and end and no escape characters.
